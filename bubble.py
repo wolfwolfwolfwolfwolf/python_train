@@ -1,9 +1,6 @@
 # -*- coding:utf-8 -*-
 
-# -*- coding:utf-8 -*-
-
-# -*- coding:utf-8 -*-
-#输入三个整数x,y,z，请把这三个数由小到大输出。
+#冒泡排序。
 
 num = list(map(int,input("please input three number: ").split()))
 temp = 0
